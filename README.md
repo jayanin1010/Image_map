@@ -146,9 +146,11 @@ Execute the programs and publish them.
 
 # OUTPUT
 
-![alt text](<Screenshot 2024-11-21 183605.png>)
+
 
  ![alt text](<Screenshot 2024-11-21 183054.png>) 
+
+ ![alt text](<Screenshot 2024-11-21 183605.png>)
 
  ![alt text](<Screenshot 2024-11-21 183322.png>) 
 
@@ -157,6 +159,6 @@ Execute the programs and publish them.
  ![alt text](<Screenshot 2024-11-21 183445.png>) 
 
  ![alt text](<Screenshot 2024-11-21 183525.png>)
- 
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
